@@ -36,3 +36,8 @@ Throughout this project, I gained practical experience in:
 | **Frontend**   | React.js, JavaScript                  |
 | **ML**         | TensorFlow/Keras, Pandas, NumPy       |
 | **Database**   | SQLite                    |
+
+## Portal Example
+![Dashboard do Portal 0](https://github.com/pmmrb1967/stock-prediction-portal/blob/main/Resources/portal_img_0.png)
+ 
+![Dashboard do Portal 1](https://github.com/pmmrb1967/stock-prediction-portal/blob/main/Resources/portal_img_1.png)
